@@ -1,4 +1,4 @@
-# hvillalba · app-tareas
+# gvera · app-tareas
 
 API REST de un **gestor de tareas** construida con **FastAPI** y **SQLAlchemy 2.0 (asíncrono)**, con base de datos SQLite. Sirve como backend para la app móvil (Expo / React Native) del gestor de tareas.
 
